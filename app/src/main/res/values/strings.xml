@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="delete_all">Delete All</string>
+    <string name="slash">/</string>
+    <string name="astrick">*</string>
+    <string name="minus">-</string>
+    <string name="add">+</string>
+    <string name="clear_text_2">Clear text 2</string>
+    <string name="clear_text_1">Clear text 1</string>
+    <string name="todo">TODO</string>
+</resources>
